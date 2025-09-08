@@ -1,0 +1,350 @@
+Paper ID: 2011.03635
+extracted_hypothesis: Deep reinforcement learning is the best candidate to tackle self-driving cars.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the review concludes that deep reinforcement learning provides a more promising approach to the problem of motion prediction in autonomous vehicles, despite existing gaps in accuracy and complexity. The research question was not explicitly stated in the document.
+-------------------------------------------------------------------------------------
+Paper ID: 1909.01729
+extracted_hypothesis: Jointly designing radar and communications functionalities as a dual function radar-communications (DFRC) system provides potential gains in performance, size, cost, power consumption, and robustness for autonomous vehicles.
+extracted_research_question: What DFRC strategies are most suitable for different scenarios in autonomous vehicles?
+hypothesis_met: True
+research_question_met: True
+reasoning: The hypothesis is met as the article provides a comprehensive review of DFRC technologies and discusses their potential gains in various aspects such as performance, size, cost, power consumption, and robustness. Additionally, the research question is met as the article categorizes and maps existing DFRC strategies, facilitating the identification of suitable technologies for different scenarios in autonomous vehicles.
+-------------------------------------------------------------------------------------
+Paper ID: 1803.03758
+extracted_hypothesis: None
+extracted_research_question: What are the practical control methods for autonomous vehicle steering applications?
+hypothesis_met: False
+research_question_met: True
+reasoning: The research question regarding practical control methods for autonomous vehicle steering applications has been met as the tutorial provides an introduction to various control methods, including kinematic and dynamic controllers, along with experimental results.
+-------------------------------------------------------------------------------------
+Paper ID: 2206.10249
+extracted_hypothesis: Incorporating natural language voice instructions (NLI) in model-based deep reinforcement learning can significantly improve the learning efficiency and speed of self-driving cars.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The results of the experiments show that using voice instructions to interfere with self-driving cars' learning significantly improves learning efficiency and allows agents to converge much faster to a good policy, thus confirming the hypothesis.
+-------------------------------------------------------------------------------------
+Paper ID: 1805.08551
+extracted_hypothesis: We seek to make our controller more robust by introducing elements such as weight tuning, successive linearization, and successive linearization with a velocity model.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the report discusses the introduction of various elements (weight tuning, successive linearization) to enhance the robustness of the Model Predictive Control, which aligns with the stated goal of improving the controller's performance under uncertainties and non-linearities. However, there is no explicit research question presented in the document.
+-------------------------------------------------------------------------------------
+Paper ID: 2004.13822
+extracted_hypothesis: None
+extracted_research_question: How can a self-driving car accurately interpret free-form natural language commands to identify objects in a real-world setting?
+hypothesis_met: False
+research_question_met: True
+reasoning: The research question has been met as the document discusses the implementation of a model that addresses the challenge of interpreting natural language commands in the context of autonomous vehicles. The model aims to predict the coordinates of bounding boxes around objects based on commands, indicating progress towards solving the research question.
+-------------------------------------------------------------------------------------
+Paper ID: 1807.11227
+extracted_hypothesis: Recent developments in autonomous vehicle technology have helped bring self-driving vehicles to the forefront of public interest.
+extracted_research_question: In order to investigate users' acceptance, safety concerns, and willingness to purchase of autonomous vehicles, extensive studies have been conducted.
+hypothesis_met: False
+research_question_met: True
+reasoning: The hypothesis regarding the public interest in autonomous vehicles is not directly tested or confirmed in the text. However, the research question about investigating users' acceptance, safety concerns, and willingness to purchase autonomous vehicles is addressed through the mention of extensive studies conducted on these topics.
+-------------------------------------------------------------------------------------
+Paper ID: 2012.10870
+extracted_hypothesis: This work proposes a solution which addresses the given problem by detecting and reporting vehicular collisions almost spontaneously.
+extracted_research_question: How can vehicular collisions be detected and reported in a timely manner to assist local medical authorities and traffic police?
+hypothesis_met: True
+research_question_met: True
+reasoning: The proposed framework successfully detects accidents with a 79.05% Accident Detection Rate, indicating that the hypothesis regarding the effectiveness of the solution has been met. Additionally, the research question about timely detection and reporting of vehicular collisions is also addressed, as the system aims to assist local authorities in a timely manner.
+-------------------------------------------------------------------------------------
+Paper ID: 2407.09466
+extracted_hypothesis: We demonstrate a fully immersive VR-based driving simulator to generate adversarial data from a comprehensive user study using actual human drivers.
+extracted_research_question: How can a fully immersive VR-based driving simulator be used to generate adversarial data for autonomous vehicle safety?
+hypothesis_met: True
+research_question_met: True
+reasoning: The hypothesis has been met as the study successfully demonstrates the use of a fully immersive VR-based driving simulator to generate adversarial data through user studies. The research question is also met, as the paper explores the effectiveness of the simulator in creating realistic and interactive traffic scenarios, thereby contributing to the safety of autonomous vehicles.
+-------------------------------------------------------------------------------------
+Paper ID: 2505.01446
+extracted_hypothesis: Our main approach was to using CNN to mimic human action and LSTM to treat this as a time series problem.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the project successfully utilized CNN and LSTM to predict the acceleration of autonomous vehicles, demonstrating the effectiveness of these models in mimicking human actions and treating the problem as a time series. However, there is no explicit research question stated in the document.
+-------------------------------------------------------------------------------------
+Paper ID: 2504.20180
+extracted_hypothesis: The aim of this paper is to address the issues of cybersecurity within the autonomous vehicles by examining the challenges, risks which help in building our secure future.
+extracted_research_question: What are the key cybersecurity challenges faced by autonomous vehicles, and what effective countermeasures can be proposed to mitigate these risks?
+hypothesis_met: False
+research_question_met: True
+reasoning: {'Hypothesis': 'The hypothesis is not met because while the paper aims to address cybersecurity issues, it does not provide conclusive evidence or results that demonstrate a successful resolution of these issues.', 'Research_Question': 'The research question is met as the paper thoroughly examines the key cybersecurity challenges faced by autonomous vehicles and proposes effective countermeasures to mitigate these risks.'}
+-------------------------------------------------------------------------------------
+Paper ID: 1803.02393
+extracted_hypothesis: The increasing number of AVs will reduce the number of collisions but also it will imply a new approach to road safety for pedestrians, arising the requirement of new regulations.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the paper concludes that the increasing number of AVs will indeed reduce collisions and necessitate new regulations for pedestrian safety, which aligns with the stated hypothesis. There is no research question explicitly stated in the document.
+-------------------------------------------------------------------------------------
+Paper ID: 2406.02916
+extracted_hypothesis: This study specifically focuses on real-time motion planning in environments where dynamic obstacles are present.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the study successfully addresses the challenge of real-time motion planning in dynamic environments, incorporating various algorithms and methods to enhance trajectory planning and obstacle avoidance. The results indicate that the proposed methods effectively improve the quality of generated paths while considering dynamic obstacles.
+-------------------------------------------------------------------------------------
+Paper ID: 2406.12370
+extracted_hypothesis: The integration of Uncrewed Aerial Vehicles (UAVs) into an intelligent winter road information system will enhance the safety, reliability, and performance of autonomous vehicles navigating through winter landscapes.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the study demonstrates that integrating UAVs with advanced sensors and imaging technologies allows for real-time data collection on winter road conditions, which in turn enables autonomous vehicles to make informed decisions and adapt their driving behavior, thereby enhancing safety and performance in adverse weather conditions.
+-------------------------------------------------------------------------------------
+Paper ID: 2105.02851
+extracted_hypothesis: We develop the first model-checking algorithm for DAU formulas, to determine whether a system model has a given obligation or not.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the paper successfully develops and implements a model-checking algorithm for DAU formulas, demonstrating its use on a self-driving car controller. This indicates that the system can determine whether it has a given obligation, fulfilling the stated hypothesis.
+-------------------------------------------------------------------------------------
+Paper ID: 2411.18714
+extracted_hypothesis: CW-Net can provide interpretable, causally faithful explanations for the decisions of black-box motion planners in real self-driving cars, improving the human driver's mental model and safety.
+extracted_research_question: How can we provide understandable and useful explanations for the decisions of deep motion planners deployed in real self-driving cars?
+hypothesis_met: True
+research_question_met: True
+reasoning: The study successfully demonstrates that CW-Net provides interpretable explanations that align the human driver's mental model with the AV's decision-making process, thereby enhancing predictability and safety. The results confirm that the explanations improve the driver's understanding and behavior in real-world scenarios, thus meeting both the hypothesis and the research question.
+-------------------------------------------------------------------------------------
+Paper ID: 1805.11815
+extracted_hypothesis: The Uber Car Crash could have been avoided with better object detection and image enhancement techniques.
+extracted_research_question: Could the Uber Car Crash have been avoided?
+hypothesis_met: True
+research_question_met: True
+reasoning: The hypothesis has been met as the study demonstrated that the YOLO Object Detection framework was able to detect the pedestrian approximately one second before the actual crash, indicating that improved detection methods could potentially prevent such accidents. Additionally, the research question has also been met as the experiments provided evidence that better object detection could have led to earlier identification of the pedestrian, although the ultimate question of whether the crash could have been avoided remains dependent on other factors.
+-------------------------------------------------------------------------------------
+Paper ID: 1905.00689
+extracted_hypothesis: The proposed approximate computing scheme is implemented on custom hardware, also exploiting the customisation and flexibility of FPGAs, to generate an optimised hardware mapping of a given LSTM on a target FPGA, tailored to the available time budget and error tolerance.
+extracted_research_question: How can LSTMs be effectively deployed in time-constrained applications while maintaining accuracy and reducing computational workload?
+hypothesis_met: True
+research_question_met: True
+reasoning: The hypothesis has been met as the proposed methodology demonstrates significant improvements in accuracy for every given computation time budget compared to a baseline implementation. Additionally, the research question has been met as the study provides a solution for effectively deploying LSTMs in time-constrained applications, showcasing a successful trade-off between computation time, accuracy, and power efficiency.
+-------------------------------------------------------------------------------------
+Paper ID: 1910.04695
+extracted_hypothesis: We propose GLADAS, an open-source research platform designed to support the testing and benchmarking of gesture recognition algorithms of self-driving cars.
+extracted_research_question: 
+hypothesis_met: False
+research_question_met: False
+reasoning: The hypothesis regarding the effectiveness of GLADAS in supporting gesture recognition algorithms was not met, as the results showed an F1 score of 85.91%, indicating that the algorithm's performance is inadequate for safe operation of self-driving cars. The research question regarding the need for improved human-AV interaction was also not met, as the results highlighted the necessity for further research rather than providing a definitive answer.
+-------------------------------------------------------------------------------------
+Paper ID: 2106.14943
+extracted_hypothesis: We propose to perform a novel compiler-aware neural pruning search with Bayesian optimization (BO), automatically determining the pruning scheme and rate (including bypass) for each individual layer.
+extracted_research_question: How can we achieve real-time object detection on edge devices with limited resources?
+hypothesis_met: True
+research_question_met: True
+reasoning: The hypothesis has been met as the proposed method successfully achieves real-time inference times of 55ms for 2D detection and 99ms for 3D detection on mobile devices, with minor or no accuracy loss. Additionally, the research question has been met as the study demonstrates a viable solution for real-time object detection on edge devices with limited resources.
+-------------------------------------------------------------------------------------
+Paper ID: 2207.00191
+extracted_hypothesis: Supplemental synthetic data from the simulated world can improve performance of object recognition and localization compared to models that are solely built on real-world annotated training data.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the study demonstrates that using synthetic data generated from the CARLA simulator improves the performance of object recognition and localization tasks in autonomous vehicles compared to models trained only on real-world data. The results indicate that the inclusion of simulated data enhances the perception capabilities of the autonomous vehicle systems, validating the proposed hypothesis.
+-------------------------------------------------------------------------------------
+Paper ID: 2502.12208
+extracted_hypothesis: We propose integrating advanced generative models, specifically Stable Diffusion, to enhance MT capabilities in ADS testing.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the proposed integration of Stable Diffusion into the metamorphic testing framework has been described as a method to improve test reproducibility and robustness in validating autonomous driving systems. The results indicate that this approach effectively addresses the limitations of traditional metamorphic testing by generating nuanced scenario modifications for rigorous evaluation.
+-------------------------------------------------------------------------------------
+Paper ID: 2006.00648
+extracted_hypothesis: While deep learning based methods are shown to be producing very promising results and seem to represent the right path to follow in order to solve this challenge in the future, methods based on 3D feature detection and matching are still considered as state of the art due to their proven stability when deployed in real life scenarios.
+extracted_research_question: What are the strengths and weaknesses of different methods for 3D LiDAR localization in autonomous driving vehicles?
+hypothesis_met: True
+research_question_met: True
+reasoning: The hypothesis has been met as the results indicate that while deep learning methods show promise, the traditional 3D feature detection methods remain the most stable and effective in real-world applications. The research question has also been met as the paper reviews and discusses the strengths and weaknesses of various methods, providing a comprehensive analysis of the current state of 3D LiDAR localization.
+-------------------------------------------------------------------------------------
+Paper ID: 1909.04850
+extracted_hypothesis: If all self-driving cars were to adhere to some behavioral contract, there would be much greater certainty of how other self-driving cars would behave, thereby making it significantly easier to choose actions that would be mutually beneficial and also reduce the risk of accidents.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the proposed framework demonstrates how self-driving cars can adhere to a behavioral contract, leading to greater certainty in their interactions and a reduction in the risk of accidents. The results indicate that the framework allows for the formulation of specifications that govern high-level behaviors, thus supporting the hypothesis. However, there is no explicit research question identified in the text.
+-------------------------------------------------------------------------------------
+Paper ID: 2006.11670
+extracted_hypothesis: This paper introduces and describes the design of RollE, a novel affordable modular scaled-down autonomous vehicle platform designed to reduce the barrier to entry into self-driving research, in terms of cost of equipment.
+extracted_research_question: How can an affordable autonomous vehicle platform accelerate self-driving research in Africa?
+hypothesis_met: True
+research_question_met: True
+reasoning: The hypothesis has been met as the paper successfully demonstrates that RollE, an affordable autonomous vehicle platform, can effectively be used to implement self-driving ideas and accelerate research in this field. The results indicate that the platform is functional and provides a low-cost solution for researchers, thus addressing the barriers to entry in self-driving research.
+-------------------------------------------------------------------------------------
+Paper ID: 2006.11684
+extracted_hypothesis: It is unclear when it is necessary to introduce explanations about the autonomous decision, and whether we should address individuals differently.
+extracted_research_question: Which scenarios do people need explanations for and how does the critical degree of an explanation shift with situations and driver types?
+hypothesis_met: False
+research_question_met: True
+reasoning: The hypothesis regarding the necessity of explanations in autonomous decision-making was not explicitly confirmed or denied, as it remains unclear. However, the research question was met as the study successfully identified specific scenarios where explanations are needed and demonstrated how the necessity of explanations varies with different driver types and contexts.
+-------------------------------------------------------------------------------------
+Paper ID: 2502.00050
+extracted_hypothesis: the lack of adequate data collected on rare events and accidents
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis regarding the lack of adequate data on rare events and accidents has been met as the paper successfully introduces the DISC dataset, which provides detailed data on different driving behaviors under pre-crash conditions. This dataset addresses the identified gap in current research by enabling the collection of data in high-risk scenarios, thus enhancing the understanding of driving dynamics and safety. However, there is no explicit research question stated in the document.
+-------------------------------------------------------------------------------------
+Paper ID: 1910.06075
+extracted_hypothesis: The purpose of this paper is to address and decompose the simulation capabilities within the key players of the autonomous vehicle and self-driving car industry.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the paper successfully addresses and decomposes the simulation capabilities of key players in the autonomous vehicle industry, providing insights into their methodologies and technologies. The research question is not explicitly stated in the text, hence it cannot be evaluated.
+-------------------------------------------------------------------------------------
+Paper ID: 1809.01011
+extracted_hypothesis: We propose an experimental convolutional neural network (CNN) architecture and training procedure for a high accuracy binary classifier for road junction disambiguation.
+extracted_research_question: How can a real-time road intersection detector be developed for autonomous vehicular navigation?
+hypothesis_met: True
+research_question_met: True
+reasoning: The hypothesis has been met as the proposed CNN architecture was experimentally verified, demonstrating its effectiveness in high accuracy binary classification for road junction disambiguation. Additionally, the research question has been met since the paper discusses a navigation methodology that integrates the proposed architecture with existing road tracking algorithms, indicating a successful development of a real-time road intersection detector.
+-------------------------------------------------------------------------------------
+Paper ID: 1908.08641
+extracted_hypothesis: We propose using a punishment strategy that only restricts the opponent's utility to some safe target level while maximizing the utility of the agent.
+extracted_research_question: How can a Stackelberg punishment be effectively applied to solve the SDC bullying problem?
+hypothesis_met: True
+research_question_met: True
+reasoning: The hypothesis has been met as the proposed Stackelberg punishment strategy was demonstrated to significantly decrease occurrences of bullying and encourage pro-social driving behavior in the experiment. Additionally, the research question has been met as the study effectively explored the application of Stackelberg punishment in addressing the bullying problem in self-driving cars.
+-------------------------------------------------------------------------------------
+Paper ID: 1909.00342
+extracted_hypothesis: The approach enabling the specification of additional tasks in an MPC tracking controller of an AV will maximize clearance to other road users, resulting in an increase of safety based on the TTR metric.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the paper presents extensive experimental results demonstrating that the proposed approach effectively maximizes clearance to other road users, thereby increasing safety as indicated by the TTR metric.
+-------------------------------------------------------------------------------------
+Paper ID: 2010.13986
+extracted_hypothesis: REITS improves the reliability of RF-based sensing modules for autonomous vehicles.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the results indicate that REITS enhances the return signal strength by 11.2 dB and extends the detection distance by a factor of 3.63, demonstrating improved reliability of RF-based sensing modules for autonomous vehicles.
+-------------------------------------------------------------------------------------
+Paper ID: 2501.05322
+extracted_hypothesis: The Human-centered Multimodal Interpreter (HMI) system will significantly boost passenger trust in autonomous vehicles (AVs).
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the user study demonstrated that the HMI system significantly increased passenger trust in AVs, with average trust levels rising by over 8% and up to 30% in ordinary environments. There is no research question explicitly stated in the text.
+-------------------------------------------------------------------------------------
+Paper ID: 1406.7768
+extracted_hypothesis: No specific hypothesis is stated in the document.
+extracted_research_question: How should an experimental platform for miniature vehicles be designed covering general design considerations for software and hardware architecture, incorporation of a simulative approach, and fundamental algorithmic concepts?
+hypothesis_met: False
+research_question_met: True
+reasoning: The document does not present a specific hypothesis to be tested. However, it does address a research question regarding the design of an experimental platform for miniature vehicles. The results from the systematic literature review and the analysis of competition results provide insights and recommendations that effectively answer the research question, indicating that it has been met.
+-------------------------------------------------------------------------------------
+Paper ID: 2112.05534
+extracted_hypothesis: We aim to prove some similarities between real-scale and small-scale autonomous robots, by developing a small AR that performs essential tasks.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the project successfully demonstrates the similarities between real-scale and small-scale autonomous robots through the development of a small autonomous robot that performs essential tasks. The results indicate that the approaches used are similar to those employed in real self-driving cars, thus validating the hypothesis.
+-------------------------------------------------------------------------------------
+Paper ID: 2207.12939
+extracted_hypothesis: The FasterSeg model can achieve sufficient accuracy and real-time performance for autonomous vehicles in the Carolo-Cup environment using synthetic data.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the FasterSeg model demonstrated an accuracy of over 64% and a frame rate of 247.11 FPS, indicating that it can perform adequately in the Carolo-Cup environment. However, the research questions were not explicitly answered in the conclusion, as they were more exploratory in nature rather than definitive.
+-------------------------------------------------------------------------------------
+Paper ID: 2403.03111
+extracted_hypothesis: The exploitation of semantic information during the step of keypoints matching significantly improves localization accuracy for fast moving platforms.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the experiments conducted on the KITTI dataset demonstrated a major impact on localization accuracy when semantic information was utilized in the matching process, particularly in scenarios with large gaps between LiDAR scans due to high-speed movement.
+-------------------------------------------------------------------------------------
+Paper ID: 2009.11722
+extracted_hypothesis: We propose the *Coud2Edge Elastic EB-AI Framework* as a revised prototyping and deployment workflow for building AI based solutions for autonomous driving.
+extracted_research_question: What are the current limitations in the development process of AI-based autonomous driving applications?
+hypothesis_met: True
+research_question_met: True
+reasoning: The proposed *Coud2Edge Elastic EB-AI Framework* effectively addresses the limitations identified in the development process of AI-based autonomous driving applications, demonstrating its utility in real-world scenarios at Elektrobit Automotive. The results showed the effectiveness of the framework in two application cases, confirming that the hypothesis has been met.
+-------------------------------------------------------------------------------------
+Paper ID: 2108.04629
+extracted_hypothesis: The proposed method for cooperative path planning using future path sharing will improve traversal times for autonomous vehicles at intersections.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the results indicate that the proposed method effectively coordinates vehicle speeds and achieves a 26% faster traversal time for both vehicles through the intersection, demonstrating the effectiveness of the cooperative path planning approach.
+-------------------------------------------------------------------------------------
+Paper ID: 2504.04217
+extracted_hypothesis: The platform's modules are designed to be scalable for larger autonomous vehicles, with further development planned to enable more complex tasks like Simultaneous Localization and Mapping (SLAM) as more powerful computing systems are integrated.
+extracted_research_question: How can a four-wheeled autonomous vehicle platform be designed to facilitate research and prototyping in autonomous driving?
+hypothesis_met: True
+research_question_met: True
+reasoning: The results demonstrate the platform's effectiveness in achieving reliable lane tracking under varying lighting conditions, smooth trajectory following, and consistent object detection performance. This indicates that the hypothesis regarding scalability and adaptability for larger systems has been met, as well as the research question about the design and functionality of the platform.
+-------------------------------------------------------------------------------------
+Paper ID: 1804.07045
+extracted_hypothesis: We contend that the work on adversarial ML, while important and useful, is not enough. In particular, we advocate for the increased use of semantics in adversarial analysis and design of ML algorithms.
+extracted_research_question: 
+hypothesis_met: False
+research_question_met: False
+reasoning: The hypothesis suggests that the current work on adversarial ML is insufficient and calls for the integration of semantics. However, the conclusion states that preliminary experiments show promise but also indicate that much remains to be done, implying that the hypothesis has not been fully met. There is no explicit research question identified in the text.
+-------------------------------------------------------------------------------------
+Paper ID: 1806.01777
+extracted_hypothesis: We aim to study how longitudinal distance affects rear-end collisions under the safe driving presumptions.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the study successfully analyzes the impact of longitudinal distance on rear-end collisions, providing insights into safe driving presumptions. However, there is no explicit research question stated in the document.
+-------------------------------------------------------------------------------------
+Paper ID: 1811.01273
+extracted_hypothesis: It is possible to develop a vehicle with basic autonomy features in just six months relying on simple, robust algorithms.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the team successfully developed a vehicle with basic autonomy features within the six-month timeframe using simple and robust algorithms, which is evidenced by their first-place finish in the competition. There is no research question explicitly stated in the document.
+-------------------------------------------------------------------------------------
+Paper ID: 1901.10747
+extracted_hypothesis: This study proposes and argues a novel vision based structure to estimate the steering wheel angle of a vehicle regardless of its physical aspects and mechanical hardware characteristics.
+extracted_research_question: 
+hypothesis_met: False
+research_question_met: False
+reasoning: The hypothesis has not been met as the conclusion states that the development and implementation of the proposed system is ongoing and its statistical accuracy needs to be analyzed through real-time tests. Therefore, there is no confirmation that the proposed system effectively estimates the steering wheel angle as intended.
+-------------------------------------------------------------------------------------
+Paper ID: 1907.03680
+extracted_hypothesis: We show that under suitable smoothness assumptions on both the perception map and the generative model relating state to complex and nonlinear data, parameters of the safe set can be learned via appropriately dense sampling of the state space.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the study demonstrates that the proposed approach allows for the learning of parameters of the safe set under the specified smoothness assumptions, which is supported by both theoretical and experimental results. However, there is no explicit research question stated in the document.
+-------------------------------------------------------------------------------------
+Paper ID: 1908.06588
+extracted_hypothesis: The observation range can be defined adaptively based on the surrounding environment and the level of localization error to improve vehicle self-localization performance.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the results demonstrated that the proposed localization method, which defines the observation range dynamically, successfully reduced the average matching time while maintaining localization accuracy within the required threshold. The research question was not explicitly stated in the text, hence it cannot be evaluated.
+-------------------------------------------------------------------------------------
+Paper ID: 1909.03854
+extracted_hypothesis: The autonomous vehicle developed in this project is expected to satisfy the following objectives: 1. To have the capacity to detect obstacles along with the speed of obstacle in its path based on a predetermined threshold distance. 2. After obstacle and speed detection, changing its course to a relatively open lane on the road by making a decision autonomously. 3. Requiring no human intervention during its operation. 4. Measuring the distance between itself and the surrounding objects in real-time.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the paper describes a methodology for implementing a level-2 autonomous vehicle that successfully detects obstacles, changes course autonomously, operates without human intervention, and measures distances in real-time, as outlined in the objectives. However, there is no explicit research question stated in the document.
+-------------------------------------------------------------------------------------
+Paper ID: 2006.04218
+extracted_hypothesis: We aim to imitate human driving behavior by recovering the first and second moments of state distributions of an experienced human driver.
+extracted_research_question: How can a machine learn from human drivers and develop human-like driving skills?
+hypothesis_met: True
+research_question_met: True
+reasoning: The hypothesis has been met as the study successfully demonstrated that the proposed method can reproduce human expert behavior in a driving simulator environment. The results indicated that the agent developed human-like obstacle avoidance skills, which aligns with the aim of imitating human driving behavior. Additionally, the research question has also been met, as the study explored how a machine can learn from human drivers and effectively implement those learned behaviors in a simulated environment.
+-------------------------------------------------------------------------------------
+Paper ID: 2006.11034
+extracted_hypothesis: We propose a new type of lidar sensor that offers advantages in these aspects as well as performance, with potential to accelerate the development of fully autonomous robots.
+extracted_research_question: 
+hypothesis_met: True
+research_question_met: False
+reasoning: The hypothesis has been met as the proposed lidar sensor demonstrates advantages in cost, size, and performance, which are critical for the development and mass deployment of autonomous robots. The conclusion supports this by stating that the new lidar design will be welcomed by academia and industry, indicating its potential impact on autonomous robotic applications.
+-------------------------------------------------------------------------------------
+Paper ID: 2009.01119
+extracted_hypothesis: The probabilistic and statistical modelling approach presented in this article enables the rigorous and quantitative analysis and argument for the level of safety generated by the operation of an autonomous driving function.
+extracted_research_question: How can rigorous quantitative arguments for the safety of autonomous driving functions be produced?
+hypothesis_met: True
+research_question_met: True
+reasoning: The hypothesis has been met as the article successfully demonstrates that the probabilistic and statistical modelling approach allows for rigorous and quantitative safety analysis of autonomous driving functions. Additionally, the research question has been met as the paper provides a methodology for producing rigorous quantitative arguments for safety, illustrating the key ideas and concepts necessary for such analysis.
+-------------------------------------------------------------------------------------

@@ -1,0 +1,200 @@
+Paper Id : 2011.03635
+References_Filter_Before : 29
+References_Filter_After : 8
+-------------------------------------------------------------------------------------
+Paper Id : 1909.01729
+References_Filter_Before : 68
+References_Filter_After : 7
+-------------------------------------------------------------------------------------
+Paper Id : 1803.03758
+References_Filter_Before : 18
+References_Filter_After : 2
+-------------------------------------------------------------------------------------
+Paper Id : 2206.10249
+References_Filter_Before : 32
+References_Filter_After : 4
+-------------------------------------------------------------------------------------
+Paper Id : 1805.08551
+References_Filter_Before : 4
+References_Filter_After : 2
+-------------------------------------------------------------------------------------
+Paper Id : 2004.13822
+References_Filter_Before : 6
+References_Filter_After : 2
+-------------------------------------------------------------------------------------
+Paper Id : 1807.11227
+References_Filter_Before : 50
+References_Filter_After : 9
+-------------------------------------------------------------------------------------
+Paper Id : 2012.10870
+References_Filter_Before : 14
+References_Filter_After : 6
+-------------------------------------------------------------------------------------
+Paper Id : 2407.09466
+References_Filter_Before : 34
+References_Filter_After : 10
+-------------------------------------------------------------------------------------
+Paper Id : 2505.01446
+References_Filter_Before : 19
+References_Filter_After : 4
+-------------------------------------------------------------------------------------
+Paper Id : 2504.20180
+References_Filter_Before : 9
+References_Filter_After : 4
+-------------------------------------------------------------------------------------
+Paper Id : 1803.02393
+References_Filter_Before : 30
+References_Filter_After : 11
+-------------------------------------------------------------------------------------
+Paper Id : 2406.02916
+References_Filter_Before : 16
+References_Filter_After : 5
+-------------------------------------------------------------------------------------
+Paper Id : 2406.12370
+References_Filter_Before : 15
+References_Filter_After : 3
+-------------------------------------------------------------------------------------
+Paper Id : 2105.02851
+References_Filter_Before : 44
+References_Filter_After : 7
+-------------------------------------------------------------------------------------
+Paper Id : 2411.18714
+References_Filter_Before : 38
+References_Filter_After : 10
+-------------------------------------------------------------------------------------
+Paper Id : 1805.11815
+References_Filter_Before : 84
+References_Filter_After : 5
+-------------------------------------------------------------------------------------
+Paper Id : 1905.00689
+References_Filter_Before : 50
+References_Filter_After : 10
+-------------------------------------------------------------------------------------
+Paper Id : 1910.04695
+References_Filter_Before : 26
+References_Filter_After : 13
+-------------------------------------------------------------------------------------
+Paper Id : 2106.14943
+References_Filter_Before : 14
+References_Filter_After : 1
+-------------------------------------------------------------------------------------
+Paper Id : 2207.00191
+References_Filter_Before : 22
+References_Filter_After : 4
+-------------------------------------------------------------------------------------
+Paper Id : 2502.12208
+References_Filter_Before : 9
+References_Filter_After : 2
+-------------------------------------------------------------------------------------
+Paper Id : 2006.00648
+References_Filter_Before : 64
+References_Filter_After : 3
+-------------------------------------------------------------------------------------
+Paper Id : 1909.04850
+References_Filter_Before : 20
+References_Filter_After : 6
+-------------------------------------------------------------------------------------
+Paper Id : 2006.11670
+References_Filter_Before : 15
+References_Filter_After : 5
+-------------------------------------------------------------------------------------
+Paper Id : 2006.11684
+References_Filter_Before : 31
+References_Filter_After : 13
+-------------------------------------------------------------------------------------
+Paper Id : 2502.00050
+References_Filter_Before : 34
+References_Filter_After : 14
+-------------------------------------------------------------------------------------
+Paper Id : 1910.06075
+References_Filter_Before : 7
+References_Filter_After : 5
+-------------------------------------------------------------------------------------
+Paper Id : 1809.01011
+References_Filter_Before : 18
+References_Filter_After : 9
+-------------------------------------------------------------------------------------
+Paper Id : 1908.08641
+References_Filter_Before : 12
+References_Filter_After : 3
+-------------------------------------------------------------------------------------
+Paper Id : 1909.00342
+References_Filter_Before : 22
+References_Filter_After : 3
+-------------------------------------------------------------------------------------
+Paper Id : 2010.13986
+References_Filter_Before : 20
+References_Filter_After : 7
+-------------------------------------------------------------------------------------
+Paper Id : 2501.05322
+References_Filter_Before : 26
+References_Filter_After : 18
+-------------------------------------------------------------------------------------
+Paper Id : 1406.7768
+References_Filter_Before : 54
+References_Filter_After : 9
+-------------------------------------------------------------------------------------
+Paper Id : 2112.05534
+References_Filter_Before : 1
+References_Filter_After : 0
+-------------------------------------------------------------------------------------
+Paper Id : 2207.12939
+References_Filter_Before : 19
+References_Filter_After : 6
+-------------------------------------------------------------------------------------
+Paper Id : 2403.03111
+References_Filter_Before : 29
+References_Filter_After : 2
+-------------------------------------------------------------------------------------
+Paper Id : 2009.11722
+References_Filter_Before : 39
+References_Filter_After : 8
+-------------------------------------------------------------------------------------
+Paper Id : 2108.04629
+References_Filter_Before : 34
+References_Filter_After : 9
+-------------------------------------------------------------------------------------
+Paper Id : 2504.04217
+References_Filter_Before : 12
+References_Filter_After : 5
+-------------------------------------------------------------------------------------
+Paper Id : 1804.07045
+References_Filter_Before : 56
+References_Filter_After : 3
+-------------------------------------------------------------------------------------
+Paper Id : 1806.01777
+References_Filter_Before : 14
+References_Filter_After : 7
+-------------------------------------------------------------------------------------
+Paper Id : 1811.01273
+References_Filter_Before : 24
+References_Filter_After : 8
+-------------------------------------------------------------------------------------
+Paper Id : 1901.10747
+References_Filter_Before : 10
+References_Filter_After : 2
+-------------------------------------------------------------------------------------
+Paper Id : 1907.03680
+References_Filter_Before : 72
+References_Filter_After : 7
+-------------------------------------------------------------------------------------
+Paper Id : 1908.06588
+References_Filter_Before : 17
+References_Filter_After : 5
+-------------------------------------------------------------------------------------
+Paper Id : 1909.03854
+References_Filter_Before : 9
+References_Filter_After : 4
+-------------------------------------------------------------------------------------
+Paper Id : 2006.04218
+References_Filter_Before : 43
+References_Filter_After : 13
+-------------------------------------------------------------------------------------
+Paper Id : 2006.11034
+References_Filter_Before : 43
+References_Filter_After : 3
+-------------------------------------------------------------------------------------
+Paper Id : 2009.01119
+References_Filter_Before : 12
+References_Filter_After : 6
+-------------------------------------------------------------------------------------
